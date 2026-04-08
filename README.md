@@ -1,4 +1,4 @@
-# Hi, I'm Hào! 👋
+# Hi, I'm Khoa! 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **CineFlow** (Movie Web App).
