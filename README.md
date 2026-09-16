@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- 🌗 Theme-aware banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=200&section=header&text=Huỳnh%20Văn%20Quế%20Khoa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=60&descSize=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:ffffff&height=200&section=header&text=Huỳnh%20Văn%20Quế%20Khoa&fontSize=40&fontColor=111827&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=60&descSize=16">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=200&section=header&text=Huỳnh%20Văn%20Quế%20Khoa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=60&descSize=16" width="100%">
-</picture>
-
 <!-- ✨ Name typing loop -->
 <a href="https://github.com/quekhoait">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=6E56CF&center=true&vCenter=true&width=700&lines=Hu%E1%BB%B3nh+V%C4%83n+Qu%E1%BA%BF+Khoa;Full-stack+Developer;Python+%2B+JavaScript+%2B+React;Building+things+that+matter+%F0%9F%9A%80&repeat=true" alt="Typing SVG">
@@ -61,13 +54,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quekhoait/quekhoait/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
 
 ### 📫 Connect With Me
 
@@ -82,6 +68,6 @@
 
 <div align="center">
   <br>
-  <p>01001000 01101001 → Hi 👋 Thanks for visiting!</p>
+  <p>👋 Thanks for visiting!</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=80&section=footer" width="100%">
 </div>
