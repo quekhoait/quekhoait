@@ -21,7 +21,6 @@
 ### ⏱️ Live Time (Vietnam UTC+7)
 
 <div align="center">
-  <!-- Đồng hồ thời gian thực SVG dựa trên múi giờ Việt Nam -->
   <img src="https://readme-clock.vercel.app?utc-offset=%2B7&font=JetBrains%2BMono&size=20&color=6E56CF&bg=transparent&format=24h" alt="Live Clock">
 </div>
 
@@ -32,7 +31,7 @@
 <div align="center">
   <!-- Widget hiển thị trạng thái Spotify thực tế (Cần kết nối qua github-readme-spotify nếu muốn hiện bài đang nghe, hoặc dùng card đẹp thay thế) -->
   <a href="https://open.spotify.com/">
-    <img src="https://spotify-readme.vercel.app/api/share?uid=your_spotify_id&theme=dark" alt="Spotify" />
+    <img src="https://spotify-readme.vercel.app/api/share?uid=31jtqjyynrnkxe6vxk64c23jhpme&theme=dark" alt="Spotify" />
   </a>
 </div>
 
