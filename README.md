@@ -29,7 +29,7 @@
 ### 🎧 Now Playing (Spotify)
 
 <a href="https://open.spotify.com/">
-  <img src="https://spotify-readme.vercel.app/api/share?uid=your_spotify_id&theme=dark" alt="Spotify đang phát" />
+  <img src="https://spotify-readme.vercel.app/api/share?uid=31jtqjyynrnkxe6vxk64c23jhpme&theme=dark" alt="Spotify đang phát" />
 </a>
 
 </div>
