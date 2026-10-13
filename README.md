@@ -8,7 +8,7 @@
 
 <br/>
 
-# Huỳnh Văn Quế Khoa
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=110&section=header&text=Hu%E1%BB%B3nh%20V%C4%83n%20Qu%E1%BA%BF%20Khoa&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" width="500" alt="Huỳnh Văn Quế Khoa" />
 
 ### 🟠 Full-stack Developer
 
