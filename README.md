@@ -2,7 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=130&section=header&animation=fadeIn" width="100%" alt="Header" />
 
-<img align="left" width="300" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" />
+<!-- Phần chứa ảnh cá nhân và con cáo với lớp phủ che chân ảnh -->
+<div style="position: relative; display: inline-block; width: 100%;">
+  <!-- Ảnh cá nhân bên trái (có lớp phủ gradient phía dưới để che chân ảnh) -->
+  <div style="position: relative; float: left; display: inline-block;">
+    <img width="260" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" style="display: block;" />
+    <!-- Lớp overlay màu nền (mã màu #0D0D0D) để che chân ảnh mờ dần -->
+    <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 60px; background: linear-gradient(to top, #0D0D0D 20%, transparent 100%);"></div>
+  </div>
+
+  <!-- Con cáo bên phải (đã được chỉnh nhỏ lại width="180") -->
+  <div align="right" style="padding-top: 20px;">
+    <img src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791346257/events/speakers/61158a28d2cb4d05887f65175a7026bf.png" width="180" alt="Fox" />
+  </div>
+</div>
 
 <div align="left">
 
@@ -22,16 +35,9 @@
 <img src="https://img.shields.io/github/followers/quekhoait?style=for-the-badge&color=FF7A1A&labelColor=0D0D0D&label=Followers" alt="Followers" />
 <img src="https://hits.sh/github.com/quekhoait.svg?style=for-the-badge&label=Views&color=FF7A1A&labelColor=0D0D0D" alt="Profile views" />
 
-<div align="center">
-  <img src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791346257/events/speakers/61158a28d2cb4d05887f65175a7026bf.png" width="300" alt="Fox" />
-</div>
-
 </div>
 
 <br clear="all"/>
-
-<br/>
-
 <!-- ============ ABOUT ME ============ -->
 
 ## 🟠 About Me
