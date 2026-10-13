@@ -23,7 +23,7 @@
 <img src="https://hits.sh/github.com/quekhoait.svg?style=for-the-badge&label=Views&color=FF7A1A&labelColor=0D0D0D" alt="Profile views" />
 
 <div align="center">
-  <img src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791346257/events/speakers/61158a28d2cb4d05887f65175a7026bf.png" width="150" alt="Fox" />
+  <img src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791346257/events/speakers/61158a28d2cb4d05887f65175a7026bf.png" width="200" alt="Fox" position="absolute" right="0" />
 </div>
 
 </div>
