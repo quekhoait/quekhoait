@@ -1,122 +1,144 @@
 <!-- ============ HEADER ============ -->
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=220&section=header&text=Hu%E1%BB%B3nh%20V%C4%83n%20Qu%E1%BA%BF%20Khoa&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Header" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2d1f6e,100:6E56CF&height=220&section=header&text=Huỳnh%20Văn%20Quế%20Khoa&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Header" />
+  <a href="https://github.com/quekhoait">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF7A1A&center=true&vCenter=true&width=640&height=40&lines=Python+%C2%B7+JavaScript+%C2%B7+React;Clean+APIs.+Scalable+systems.;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/quekhoait">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Python+%C2%B7+JavaScript+%C2%B7+React;Clean+APIs.+Scalable+systems.;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+  <br/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collab-6E56CF?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
-<img src="https://img.shields.io/github/followers/quekhoait?style=for-the-badge&color=6E56CF&labelColor=0d1117&label=Followers" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=quekhoait&style=for-the-badge&color=6E56CF&labelColor=0d1117&label=Views" alt="Views" />
-
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collab-FF7A1A?style=for-the-badge&labelColor=0D0D0D" alt="Open to work" />
+  <img src="https://img.shields.io/github/followers/quekhoait?style=for-the-badge&color=FF7A1A&labelColor=0D0D0D&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=quekhoait&style=for-the-badge&color=FF7A1A&labelColor=0D0D0D&label=Views" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
-## ✦ About
+<!-- ============ ABOUT ME ============ -->
 
-```js
+## 🟠 About Me
+
+```javascript
 const khoa = {
-  role:       "IT Student & Full-stack Developer",
-  focus:      ["APIs", "System Design", "Authentication", "AI-powered features"],
-  exploring:  ["Cloud deployment", "CI/CD", "LLM APIs"],
-  openTo:     ["Internships", "Collaborations", "Open-source"],
-  philosophy: "Build → Break → Learn → Improve → Repeat",
+  name: "Huỳnh Văn Quế Khoa",
+  role: "Full-stack Developer",
+  languages: ["JavaScript", "Python"],
+  frontend: ["React", "React Native", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "Flask", "Django"],
+  databases: ["MySQL", "PostgreSQL"],
+  tools: ["Git", "GitHub", "Postman", "VS Code"],
+  currentlyLearning: ["System Design", "AI Integration"],
+  motto: "Build. Learn. Improve. Repeat."
 };
 ```
+
+- 💻 Passionate about building useful web applications and scalable APIs.
+- 🚀 Interested in full-stack development, AI integration, and software architecture.
+- 🌱 Always learning new technologies and improving my development skills.
+- 🤝 Open to internships, collaboration, and exciting projects.
 
 <br/>
 
 <!-- ============ TECH STACK ============ -->
-## ✦ Tech Stack
+
+## 🟠 Tech Stack
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css&theme=dark" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,python,flask,django&theme=dark" alt="Backend" /> |
-| **Database & Tools** | <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,figma&theme=dark" alt="Tools" /> |
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend Technologies" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django&theme=dark" alt="Backend Technologies" />
+
+**Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,vscode,figma&theme=dark" alt="Database and Tools" />
 
 </div>
 
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
-## ✦ GitHub Stats
+
+## 🟠 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/quekhoait">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=quekhoait&show_icons=true&hide_border=true&border_radius=12&bg_color=0D0D0D&title_color=FF7A1A&text_color=E5E5E5&icon_color=FF7A1A&ring_color=FF7A1A&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/quekhoait">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quekhoait&layout=compact&hide_border=true&border_radius=12&bg_color=0D0D0D&title_color=FF7A1A&text_color=E5E5E5" alt="Top Languages" />
+  </a>
 
-<a href="https://github.com/quekhoait">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=quekhoait&show_icons=true&hide_border=true&border_radius=16&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=6E56CF&ring_color=6E56CF&rank_icon=github" alt="Stats" />
-</a>
-<a href="https://github.com/quekhoait">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quekhoait&layout=compact&hide_border=true&border_radius=16&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages" />
-</a>
+  <br/><br/>
 
-<br/>
+  <img src="https://streak-stats.demolab.com?user=quekhoait&hide_border=true&border_radius=12&background=0D0D0D&stroke=333333&ring=FF7A1A&fire=FF7A1A&currStreakNum=FFFFFF&currStreakLabel=FF7A1A&sideNums=FFFFFF&sideLabels=B3B3B3&dates=888888" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com?user=quekhoait&hide_border=true&border_radius=16&background=0d1117&stroke=30363d&ring=6E56CF&fire=A78BFA&currStreakNum=ffffff&currStreakLabel=A78BFA&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+  <br/><br/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=quekhoait&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=quekhoait&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <!-- ============ SPOTIFY ============ -->
-## ✦ Now Playing
+
+## 🟠 Now Playing
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=6E56CF&bar_color_cover=true" alt="Spotify - Now Playing" />
-</a>
+  <a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31smetrn4vopkt5hb25lnvq6cj2y&cover_image=true&theme=default&show_offline=false&background_color=0D0D0D&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
+    <img src="https://img.shields.io/badge/Listen%20with-Spotify-FF7A1A?style=for-the-badge&logo=spotify&logoColor=FF7A1A&labelColor=0D0D0D" alt="Listen on Spotify" />
+  </a>
 
 </div>
 
-<!--
-  HƯỚNG DẪN BẬT SPOTIFY:
-  1. Mở https://spotify-github-profile.kittinan.vercel.app và đăng nhập Spotify.
-  2. Copy "Spotify User ID" của bạn (xem trong Spotify: Profile → ··· → Share → Copy link, ID nằm sau /user/).
-  3. Thay tất cả YOUR_SPOTIFY_USER_ID ở trên bằng ID của bạn.
--->
-
 <br/>
 
-<!-- ============ QUOTE ============ -->
+<!-- ============ DEV QUOTE ============ -->
+
+## 🟠 Developer Quote
+
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
 </div>
 
 <br/>
 
 <!-- ============ CONNECT ============ -->
-## ✦ Connect
+
+## 🟠 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/quekhoait">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
+  <a href="https://github.com/quekhoait">
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF7A1A" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF7A1A" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF7A1A" alt="Email" />
+  </a>
+  <a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
+    <img src="https://img.shields.io/badge/Spotify-0D0D0D?style=for-the-badge&logo=spotify&logoColor=FF7A1A" alt="Spotify" />
+  </a>
 
 </div>
 
+<br/>
+
 <!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:2d1f6e,100:0d1117&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A1A,50:7A2E0E,100:0D0D0D&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" />
