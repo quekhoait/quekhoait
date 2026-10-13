@@ -1,12 +1,6 @@
-<!--
-  ⚠️ File này được sinh ra từ README.template.md bằng `python build.py`.
-  Muốn đổi nội dung: sửa README.template.md rồi chạy lại build.py.
-  Muốn đổi màu chủ đạo: python build.py --color purple   (hoặc --color "#22C55E")
--->
-
 <!-- ============ HEADER ============ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7A3B0C,100:FF7A1A&height=130&section=header&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=130&section=header&animation=fadeIn" width="100%" alt="Header" />
 
 <img align="left" width="300" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" />
 
@@ -14,7 +8,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:7A3B0C,100:FF7A1A&height=110&section=header&text=Hu%E1%BB%B3nh%20V%C4%83n%20Qu%E1%BA%BF%20Khoa&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" width="500" alt="Huỳnh Văn Quế Khoa" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=110&section=header&text=Hu%E1%BB%B3nh%20V%C4%83n%20Qu%E1%BA%BF%20Khoa&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" width="500" alt="Huỳnh Văn Quế Khoa" />
 
 ### 🟠 Full-stack Developer
 
@@ -145,4 +139,4 @@
 
 <!-- ============ FOOTER ============ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A1A,50:7A3B0C,100:0D0D0D&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A1A,50:7A2E0E,100:0D0D0D&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" />
