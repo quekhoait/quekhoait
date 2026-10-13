@@ -74,41 +74,23 @@
 
 <!-- ============ SPOTIFY ============ -->
 
-## 🟠 My Spotify
+## 🟠 Now Playing
 
 <div align="center">
 
 ### 🎧 Ác Mộng Đẹp — Đạt G
 
-<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW">
-  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027484fb86c4ffbd44d619a985" width="280" alt="Ác Mộng Đẹp - Đạt G album artwork" />
+<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW?si=4595196572954d79">
+  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027484fb86c4ffbd44d619a985" width="280" alt="Ác Mộng Đẹp - Đạt G" />
 </a>
 
 <br/><br/>
 
 <a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW?si=4595196572954d79">
-  <img src="https://img.shields.io/badge/▶%20PLAY%20MY%20MUSIC-FF7A1A?style=for-the-badge&logo=spotify&logoColor=FF7A1A&labelColor=0D0D0D" alt="Play Ác Mộng Đẹp on Spotify" />
+  <img src="https://img.shields.io/badge/▶%20PLAY%20MUSIC-FF7A1A?style=for-the-badge&logo=spotify&logoColor=FF7A1A&labelColor=0D0D0D" alt="Play Ác Mộng Đẹp on Spotify" />
 </a>
-
-<br/><br/>
-
-<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW">
-  <img src="https://img.shields.io/badge/ÁC%20MỘNG%20ĐẸP-ĐẠT%20G-0D0D0D?style=for-the-badge&labelColor=7A2E0E" alt="Ác Mộng Đẹp by Đạt G" />
-</a>
-
-<br/><br/>
-
-<a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31smetrn4vopkt5hb25lnvq6cj2y&cover_image=true&theme=default&show_offline=false&background_color=0D0D0D&interchange=false&profanity=false&hide_remaster=false" alt="My Spotify profile" />
-</a>
-
-<br/>
-
-<sub>🎵 A little music, a little code, a lot of dreams.</sub>
 
 </div>
-
-<br/>
 
 <!-- ============ DEVELOPER QUOTE ============ -->
 
