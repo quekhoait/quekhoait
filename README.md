@@ -20,19 +20,7 @@
 
 ## 🟠 About Me
 
-```javascript
-const khoa = {
-  name: "Huỳnh Văn Quế Khoa",
-  role: "Full-stack Developer",
-  languages: ["JavaScript", "Python"],
-  frontend: ["React", "React Native", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "Flask", "Django"],
-  databases: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "GitHub", "Postman", "VS Code"],
-  interests: ["AI Integration", "System Design"],
-  motto: "Build. Learn. Improve. Repeat."
-};
-```
+
 
 - 💻 Passionate about building useful web applications and scalable APIs.
 - 🚀 Interested in full-stack development, AI integration, and software architecture.
@@ -67,21 +55,26 @@ const khoa = {
 
 ## 🟠 GitHub Stats
 
+## 🟠 Now Playing
+
 <div align="center">
-  <a href="https://github.com/quekhoait">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=quekhoait&show_icons=true&hide_border=true&border_radius=12&bg_color=0D0D0D&title_color=FF7A1A&text_color=E5E5E5&icon_color=FF7A1A&ring_color=FF7A1A&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/quekhoait">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quekhoait&layout=compact&hide_border=true&border_radius=12&bg_color=0D0D0D&title_color=FF7A1A&text_color=E5E5E5" alt="Top Languages" />
-  </a>
 
-  <br/><br/>
+<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW?si=4595196572954d79">
+  <img src="https://img.shields.io/badge/▶_PLAY_MY_MUSIC-FF7A1A?style=for-the-badge&logo=spotify&logoColor=FF7A1A&labelColor=0D0D0D" alt="Play music on Spotify" />
+</a>
 
-  <img src="https://streak-stats.demolab.com?user=quekhoait&hide_border=true&border_radius=12&background=0D0D0D&stroke=333333&ring=FF7A1A&fire=FF7A1A&currStreakNum=FFFFFF&currStreakLabel=FF7A1A&sideNums=FFFFFF&sideLabels=B3B3B3&dates=888888" alt="GitHub Streak" />
+<br/><br/>
 
-  <br/><br/>
+<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW?si=4595196572954d79">
+  <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+</a>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=quekhoait&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<br/><br/>
+
+<a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31smetrn4vopkt5hb25lnvq6cj2y&cover_image=true&theme=default&show_offline=false&background_color=0D0D0D&interchange=false&profanity=false&hide_remaster=false" alt="My Spotify Profile" />
+</a>
+
 </div>
 
 <br/>
