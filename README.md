@@ -2,20 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=130&section=header&animation=fadeIn" width="100%" alt="Header" />
 
-<img align="right" width="200" src="./assets/fox-pebble.svg" alt="Fox" />
-
-<img align="left" width="260" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" />
+<img align="left" width="300" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" />
 
 <div align="left">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=110&section=header&text=Hu%E1%BB%B3nh%20V%C4%83n%20Qu%E1%BA%BF%20Khoa&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" width="360" alt="Huỳnh Văn Quế Khoa" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=110&section=header&text=Hu%E1%BB%B3nh%20V%C4%83n%20Qu%E1%BA%BF%20Khoa&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" width="500" alt="Huỳnh Văn Quế Khoa" />
 
 ### 🟠 Full-stack Developer
 
 <a href="https://github.com/quekhoait">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=FF7A1A&vCenter=true&width=360&height=36&lines=Python+%C2%B7+JavaScript+%C2%B7+React;Clean+APIs.+Scalable+systems.;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF7A1A&vCenter=true&width=460&height=36&lines=Python+%C2%B7+JavaScript+%C2%B7+React;Clean+APIs.+Scalable+systems.;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
