@@ -2,22 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7A2E0E,100:FF7A1A&height=130&section=header&animation=fadeIn" width="100%" alt="Header" />
 
-<!-- Khung chứa chính cho ảnh cá nhân và con cáo -->
-<div style="position: relative; width: 100%; height: 260px;">
-
-  <!-- Ảnh cá nhân bên trái + lớp phủ che chân ảnh -->
-  <div style="position: absolute; left: 0; bottom: 0;">
-    <img width="220" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" style="display: block;" />
-    <!-- Lớp gradient overlay che phần chân ảnh -->
-    <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 50px; background: linear-gradient(to top, #0D0D0D 20%, transparent 100%);"></div>
-  </div>
-
-  <!-- Con cáo sát góc dưới bên phải -->
-  <div style="position: absolute; right: 0; bottom: 0;">
-    <img src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791346257/events/speakers/61158a28d2cb4d05887f65175a7026bf.png" width="160" alt="Fox" style="display: block;" />
-  </div>
-
-</div>
+<img align="left" width="300" src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791379846/DSC_3837-2-removebg-preview_weobuh.png" alt="Huỳnh Văn Quế Khoa" />
 
 <div align="left">
 
@@ -36,6 +21,10 @@
 <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLAB-FF7A1A?style=for-the-badge&labelColor=0D0D0D" alt="Open to internships" />
 <img src="https://img.shields.io/github/followers/quekhoait?style=for-the-badge&color=FF7A1A&labelColor=0D0D0D&label=Followers" alt="Followers" />
 <img src="https://hits.sh/github.com/quekhoait.svg?style=for-the-badge&label=Views&color=FF7A1A&labelColor=0D0D0D" alt="Profile views" />
+
+<div align="center">
+  <img src="https://res.cloudinary.com/ds11ggie4/image/upload/v1791346257/events/speakers/61158a28d2cb4d05887f65175a7026bf.png" width="200" alt="Fox" />
+</div>
 
 </div>
 
