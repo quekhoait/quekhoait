@@ -29,7 +29,7 @@ const khoa = {
   backend: ["Node.js", "Express.js", "Flask", "Django"],
   databases: ["MySQL", "PostgreSQL"],
   tools: ["Git", "GitHub", "Postman", "VS Code"],
-  currentlyLearning: ["System Design", "AI Integration"],
+  interests: ["AI Integration", "System Design"],
   motto: "Build. Learn. Improve. Repeat."
 };
 ```
@@ -86,27 +86,41 @@ const khoa = {
 
 <br/>
 
-<!-- ============ SPOTIFY ============ -->
+<!-- ============ SPOTIFY PLAYER ============ -->
 
-## 🟠 Now Playing
+## 🟠 My Spotify
 
 <div align="center">
 
-  <a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31smetrn4vopkt5hb25lnvq6cj2y&cover_image=true&theme=default&show_offline=false&background_color=0D0D0D&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
-  </a>
+### 🎧 Now Playing & Favorite Track
 
-  <br/><br/>
+<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW">
+  <img src="https://img.shields.io/badge/▶_PLAY_MY_FAVORITE_TRACK-FF7A1A?style=for-the-badge&logo=spotify&logoColor=FF7A1A&labelColor=0D0D0D" alt="Play my favorite track on Spotify" />
+</a>
 
-  <a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
-    <img src="https://img.shields.io/badge/Listen%20with-Spotify-FF7A1A?style=for-the-badge&logo=spotify&logoColor=FF7A1A&labelColor=0D0D0D" alt="Listen on Spotify" />
-  </a>
+<br/><br/>
+
+<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW">
+  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02PLACEHOLDER" width="300" alt="Listen to my favorite track" />
+</a>
+
+<br/>
+
+<a href="https://open.spotify.com/user/31smetrn4vopkt5hb25lnvq6cj2y">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31smetrn4vopkt5hb25lnvq6cj2y&cover_image=true&theme=default&show_offline=false&background_color=0D0D0D&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
+</a>
+
+<br/><br/>
+
+<a href="https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW">
+  <img src="https://img.shields.io/badge/OPEN_IN_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- ============ DEV QUOTE ============ -->
+<!-- ============ DEVELOPER QUOTE ============ -->
 
 ## 🟠 Developer Quote
 
