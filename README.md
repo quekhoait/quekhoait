@@ -64,10 +64,6 @@
   <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=quekhoait&hide_border=true&border_radius=12&background=0D0D0D&stroke=333333&ring=FF7A1A&fire=FF7A1A&currStreakNum=FFFFFF&currStreakLabel=FF7A1A&sideNums=FFFFFF&sideLabels=B3B3B3&dates=888888" alt="GitHub streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=quekhoait&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 <br/>
